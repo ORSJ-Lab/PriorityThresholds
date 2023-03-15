@@ -3,4 +3,4 @@ This repository includes all the python and gurobi codes, as well as the support
 
 Author: Yaren Bilge Kaya, PhD Candiate at Northeastern University <br />
 email: kaya.y@northeastern.edu <br />
-Arxiv link will be available soon! <br />
+Arxiv link to paper: https://arxiv.org/abs/2212.03777 <br />
